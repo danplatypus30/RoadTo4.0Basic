@@ -1,0 +1,13 @@
+﻿body {
+    /*background-image: url("/img/bg.PNG");*/
+    background: lightblue url("/img/bg.png") no-repeat fixed;
+    /*background:  url("bg.png") no-repeat fixed center;*/
+    background-size: cover;
+
+}
+h1 {
+    color: lightblue;
+}
+.border {
+    border-style: solid;
+}
